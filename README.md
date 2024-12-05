@@ -38,6 +38,7 @@ User Support: Provide updates and fix any critical bugs.
 Feature Improvements: Add new features based on feedback, such as advanced analytics, improved study tools, or gamified learning.
 
 Additional Details
+
 Offline Access
 Downloadable Resources: Allow users to download study materials for offline access, ensuring they can study without an internet connection.
 Offline Notes: Enable users to create and edit notes offline, syncing changes once they are back online.
